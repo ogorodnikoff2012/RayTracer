@@ -1,4 +1,4 @@
 # RayTracer
-Simple program on C++ that ray tracing algorithm to create a picture
+Simple program on C++ that uses ray tracing algorithm to create a picture
 
 Pictures are not mine
